@@ -13,6 +13,11 @@ Join the Sagan Discord channel
 
 [![Discord](./screenshots/discord.png)](https://discord.gg/VS6jTjH4gW)
 
+Contribute!
+-----------
+
+https://github.com/wrharding/sagan/pulls
+
 Sagan Documentation
 -------------------
 
